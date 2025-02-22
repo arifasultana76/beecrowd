@@ -4,7 +4,7 @@ s_hr, s_min, s_sec = map(int,input().split(":"))
 
 d2, e_d = input().split()
 e_d = int(e_d)
-e_hr,e_min, e_sec = map(int,input().split(":"))
+e_hr, e_min, e_sec = map(int,input().split(":"))
 
 t_sec = e_sec - s_sec
 t_min = e_min - s_min
