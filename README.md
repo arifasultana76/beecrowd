@@ -1,2 +1,2 @@
 # beecrowd
-Here I uploaded all the programs that I solved in Codeforces.
+Here I uploaded all the programs that I solved in Beecrowd.
