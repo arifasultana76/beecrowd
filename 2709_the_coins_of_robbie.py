@@ -13,6 +13,7 @@ def is_prime(n):
 input_lines = sys.stdin.read().splitlines()
 i = 0
 
+
 while i < len(input_lines):
     m = int(input_lines[i])
     i += 1
