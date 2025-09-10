@@ -10,6 +10,5 @@ for r in range(n):
     elif gender == 'F':
         dolls += 1
 
-# Output result
 print(f"{cars} carrinhos")
 print(f"{dolls} bonecas")
